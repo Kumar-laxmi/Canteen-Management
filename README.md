@@ -10,3 +10,6 @@ NOTE : This program was implemented on Turbo C++ IDE.
 ## Screen-Shots(Output):
 The welcome page
 <img src="https://github.com/Kumar-laxmi/Canteen-Management/blob/main/SCREEN-SHOTS/SS1.png" />
+
+Main-Menu Page
+<img src="https://github.com/Kumar-laxmi/Canteen-Management/blob/main/SCREEN-SHOTS/SS2.png" />
