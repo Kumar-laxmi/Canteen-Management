@@ -15,3 +15,6 @@ The welcome page
 
 Main-Menu Page
 <img src="https://github.com/Kumar-laxmi/Canteen-Management/blob/main/SCREEN-SHOTS/SS2.png" />
+
+To add new product
+<img src="https://github.com/Kumar-laxmi/Canteen-Management/blob/main/SCREEN-SHOTS/SS3.png" />
