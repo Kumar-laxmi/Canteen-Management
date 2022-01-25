@@ -27,3 +27,6 @@ To display all product details
 
 To update a particular product details
 <img src="https://github.com/Kumar-laxmi/Canteen-Management/blob/main/SCREEN-SHOTS/SS6.png" />
+
+To display Full Food Menu
+<img src="https://github.com/Kumar-laxmi/Canteen-Management/blob/main/SCREEN-SHOTS/SS7.png" />
