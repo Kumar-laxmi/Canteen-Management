@@ -21,3 +21,6 @@ To add new product
 
 To display particular product detail
 <img src="https://github.com/Kumar-laxmi/Canteen-Management/blob/main/SCREEN-SHOTS/SS4.png" />
+
+To display all product details
+<img src="https://github.com/Kumar-laxmi/Canteen-Management/blob/main/SCREEN-SHOTS/SS5.png" />
