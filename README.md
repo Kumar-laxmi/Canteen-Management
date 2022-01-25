@@ -18,3 +18,6 @@ Main-Menu Page
 
 To add new product
 <img src="https://github.com/Kumar-laxmi/Canteen-Management/blob/main/SCREEN-SHOTS/SS3.png" />
+
+To display particular product detail
+<img src="https://github.com/Kumar-laxmi/Canteen-Management/blob/main/SCREEN-SHOTS/SS4.png" />
