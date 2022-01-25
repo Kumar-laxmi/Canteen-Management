@@ -30,3 +30,6 @@ To update a particular product details
 
 To display Full Food Menu
 <img src="https://github.com/Kumar-laxmi/Canteen-Management/blob/main/SCREEN-SHOTS/SS7.png" />
+
+To display Final amount to be paid
+<img src="https://github.com/Kumar-laxmi/Canteen-Management/blob/main/SCREEN-SHOTS/SS8.png" />
