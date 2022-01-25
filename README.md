@@ -24,3 +24,6 @@ To display particular product detail
 
 To display all product details
 <img src="https://github.com/Kumar-laxmi/Canteen-Management/blob/main/SCREEN-SHOTS/SS5.png" />
+
+To update a particular product details
+<img src="https://github.com/Kumar-laxmi/Canteen-Management/blob/main/SCREEN-SHOTS/SS6.png" />
